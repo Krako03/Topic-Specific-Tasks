@@ -9,6 +9,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>5-0-1-lambda-functions-map</artifactId>
+    <artifactId>5-4-1-fun-prime-numbers</artifactId>
 
 </project>

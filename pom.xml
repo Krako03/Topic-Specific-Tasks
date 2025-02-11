@@ -17,8 +17,8 @@
 
     <modules>
         <module>Generics</module>
-        <module>Generics/1-3-2-heterogeneous-max-holder</module>
         <module>Functional-Programming</module>
+        <module>Iterators</module>
     </modules>
 
     <dependencies>

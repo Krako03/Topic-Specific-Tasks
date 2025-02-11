@@ -17,6 +17,7 @@
         <module>5-1-1-crazy-lambdas</module>
         <module>5-2-1-crazy-streams</module>
         <module>5-3-1-crazy-optionals</module>
+        <module>5-4-1-fun-prime-numbers</module>
     </modules>
 
     <properties>
